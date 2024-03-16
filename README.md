@@ -1,7 +1,7 @@
 # Add To Reading List - Browser Extension
 Browser extension - Adding current tab to Chrome Reading List
 
-<img src="icon-128.png" width="128" height="128" />
+<img src="128.png" width="128" height="128" />
 
 ## Overview
 
