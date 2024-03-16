@@ -1,0 +1,21 @@
+{
+  "name": "Add to Reading List",
+  "version": "1.0.0",
+  "description": "Adding current tab to Chrome Reading List",
+  "icons": {
+      "16": "icon-16.png",
+      "32": "icon-32.png",
+      "48": "icon-48.png",
+      "128": "icon-128.png"
+    },
+  "manifest_version": 3,
+  "author": "Jan Elznic",
+  "action": {},
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "activeTab",
+    "readingList"
+  ]
+}
