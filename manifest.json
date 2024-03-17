@@ -10,7 +10,7 @@
     },
   "manifest_version": 3,
   "author": "Jan Elznic",
-  "homepage_url": "https://github.com/janelznic/browser-extension-add-to-reading-list",
+  "homepage_url": "https://janelznic.cz",
   "action": {},
   "background": {
     "service_worker": "background.js"
