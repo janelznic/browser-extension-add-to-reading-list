@@ -7,14 +7,16 @@ Browser extension - Adding current tab to Chrome Reading List
 
 This is a Chrome Extension allowing to add current tab to you reading list in one click!
 
-* Using:
+Using:
 - [Chrome Extension Manifest V3](https://developer.chrome.com/docs/extensions/mv3/intro/mv3-overview/)
 - [Chrome ReadingList API](https://developer.chrome.com/docs/extensions/reference/api/readingList)
 
-* Maintainer: [Jan Elznic](https://janelznic.cz), <jan@elznic.com>
+Maintainer: [Jan Elznic](https://janelznic.cz), <jan@elznic.com>
 
-## Installing and Running
+## Download and install in browser
+You can download the extension from [Google Chrome Web Store](https://chromewebstore.google.com/detail/add-to-reading-list/cclobccljhjpkiknljmlcbdeljdakdfp).
 
+## Install and run locally
 1. Clone this repository.
 2. Load your extension on Chrome following:
    1. Access `chrome://extensions/`
@@ -22,7 +24,7 @@ This is a Chrome Extension allowing to add current tab to you reading list in on
    3. Click on `Load unpacked extension`
    4. Select the `build` folder.
 
-## Resources:
+## Resources
 
 - [Chrome Extension documentation](https://developer.chrome.com/extensions/getstarted)
 
